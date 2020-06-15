@@ -17,3 +17,9 @@ combination of factors including sales, loyalty, profitability, as well as other
 strategic considerations. Without the ability to track and analyze your decisions
 as well as your customers’ purchases and behaviors, your business risks falling
 behind.
+
+This notebook includes :
+* Data Visualization and Analysis
+* Customer Segmentation using RFM Method
+* Analysis of product description for a particular segment of customers (example of segments : best cusotmers, loyal cusotmers, lost cusotmers, etc.)
+* Word Cloud for words in Product Description after cleaning (reomving unnecessay words or stop words)
