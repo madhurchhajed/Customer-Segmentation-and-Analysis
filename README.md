@@ -22,4 +22,4 @@ This notebook includes :
 * Data Visualization and Analysis
 * Customer Segmentation using RFM Method
 * Analysis of product description for a particular segment of customers (example of segments : best cusotmers, loyal cusotmers, lost cusotmers, etc.)
-* Word Cloud for words in Product Description after cleaning (reomving unnecessay words or stop words)
+* Word Cloud for words in Product Description after cleaning (removing unnecessay words or stop words)
